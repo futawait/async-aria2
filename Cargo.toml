@@ -5,9 +5,9 @@ authors = ["futawait <57043008+futawait@users.noreply.github.com>"]
 edition = "2018"
 license = "MIT"
 description = "Aria2 JSON-RPC in rust"
-homepage = "https://github.com/futawait/aria2"
-documentation = "https://github.com/futawait/aria2"
-repository = "https://github.com/futawait/aria2"
+homepage = "https://github.com/futawait/async-aria2"
+documentation = "https://github.com/futawait/async-aria2"
+repository = "https://github.com/futawait/async-aria2"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
